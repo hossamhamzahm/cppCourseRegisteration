@@ -1,9 +1,7 @@
 #include<bits/stdc++.h>
-#define FIO ios_base::sync_with_stdio(0);cin.tie(0);
 #define pb push_back
 using namespace std;
 typedef long long ll;
-int const N=1e3+5, M=2e3+5, OO=0x3f3f3f3f, MOD=1e9+7;
 
 
 // a vector storing the courses ordered
