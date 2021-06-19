@@ -1,0 +1,3 @@
+hos.ahmed:MATH001,PHYS001,MATH002,PHYS002,CSCE001,
+steve.atef:None,
+khaled:None,
